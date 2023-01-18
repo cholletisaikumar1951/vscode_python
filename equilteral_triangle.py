@@ -5,3 +5,4 @@ for i in range(1,n+1):
     star = "* "*i 
     print(space + star)
     k = k-1 
+    # Hi sai anna
